@@ -1,0 +1,1 @@
+#Improving Deep Learning-Based Streamflow Forecasting under Trend Varying Conditions through Evaluation of New Wavelet Preprocessing Technique, Maximal Overlap Discrete Wavelet Entropy Transform 
