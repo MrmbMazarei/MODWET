@@ -7,5 +7,5 @@ To cite this model, plese use the following citation:
 Behbahani, M. R. M., Mazarei, M., & Bagtzoglou, A. C. (2024). Improving deep learning-based streamflow forecasting under trend varying conditions through evaluation of new wavelet preprocessing technique. Stochastic Environmental Research and Risk Assessment, 38(10), 3963-3984. DOI: https://doi.org/10.1007/s00477-024-02788-y
 
 1. DL_MODWET.ipynb are the different deep learning models used in this study.
-2. 
+2. MODWT.m is the novel signal preprocessing model.
 
